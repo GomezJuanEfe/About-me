@@ -1,3 +1,7 @@
+Take a look to my latest projects
+- https://gomezjuanefe.github.io/videoStreaming/
+- https://gomezjuanefe.github.io/Frontend-Mentor---Stats-preview-card-component/
+
 - 👋 Hi, I’m @GomezJuanEfe a Platzi Student
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Git & GitHub, html, CSS & JavaScript
