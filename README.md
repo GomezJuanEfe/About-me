@@ -1,5 +1,5 @@
 Take a look to my latest projects:
-- https://gomezjuanefe.github.io/portfolio-mdeTechFest2021/index.html
+- https://practice-ws-1-manipulacion-dom.netlify.app/
 - https://gomezjuanefe.github.io/curso-practico-javascript/index.html
 - https://gomezjuanefe.github.io/videoStreaming/
 - https://gomezjuanefe.github.io/Frontend-Mentor---Stats-preview-card-component/
