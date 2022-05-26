@@ -1,3 +1,8 @@
+Go to my porfolio here:
+
+  https://gomezjuanefe.github.io/portfolio/
+
+
 Take a look to my latest projects:
 - https://practice-ws-1-manipulacion-dom.netlify.app/
 - https://gomezjuanefe.github.io/curso-practico-javascript/index.html
