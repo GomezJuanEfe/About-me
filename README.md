@@ -1,6 +1,6 @@
 Go to my porfolio here:
 
-  https://gomezjuanefe.github.io/portfolio/
+  https://gomezjuanefe.github.io/
 
 
 Take a look to my latest projects:
