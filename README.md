@@ -1,6 +1,6 @@
 # Hey!
 
-I'm Juan Felipe Gomez, a front-end developer web developer who loves to create amazing things on the internet.
+I'm Juan Felipe Gomez, a front-end developer who loves to create amazing things on the internet.
 
 ## Technologies and Tools
 
